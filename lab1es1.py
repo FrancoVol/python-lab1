@@ -1,0 +1,5 @@
+print ("Inserire il primo valore:")
+a=int(input())
+print ("Inserire il secondo valore:")
+b=int(input())
+print ("il risultato è " + str(a+b))
